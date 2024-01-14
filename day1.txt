@@ -1,0 +1,17 @@
+
+
+
+set PATH=/opt/webapps/java/bin/:$PATH
+export PATH=/opt/webapps/java/bin/:$PATH
+JAVA_HOME=/opt/webapps/java/
+# are we an interactive shell?
+
+
+o/s is a  software that manges directly systems hardware and resources like cpu memory storage
+
+o/s is nothing but user interface between 
+
+single user multi task --windows o/s (client oriented & server oriented)
+
+multi user multi task--linux o/s(single 0/s -same os for client and server )
+
