@@ -1,0 +1,22 @@
+what is weblogic server ??
+Difference between a webserver and application server ??
+domain
+Admin and managed server
+cluster
+
+
+
+
+
+its a logically group of weblogic server instances 
+
+
+cluster provides 
+
+high avalaibilty 
+
+scalability
+
+load balancing
+
+
